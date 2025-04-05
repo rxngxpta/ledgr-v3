@@ -1,0 +1,27 @@
+﻿# requirements.txt
+numpy
+streamlit
+pandas
+pandas_datareader
+Datetime
+plotly
+plotly.express
+yfinance==0.2.3.0
+nsepy
+ta
+scikit-learn
+matplotlib
+seaborn
+mftool
+nsetools
+prophet
+PyportfolioOpt
+selectolax
+streamlit-extras
+captcha
+email-validator
+Pillow
+python-dotenv
+Streamlit-js-eval
+streamlit_pdf_viewer
+tensorflow
